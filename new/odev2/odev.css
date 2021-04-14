@@ -1,0 +1,15 @@
+
+h1 {
+    color:chartreuse;
+    font-size:30px;
+}
+p{
+    color:rgb(150, 63, 63);
+    font-size:18;
+}
+body
+ {text-align: center; }
+
+ li {
+     list-style:center;
+ }
